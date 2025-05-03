@@ -1,0 +1,10 @@
+{
+    "name": "openlgtv/lginputhook",
+    "autoload": {
+        "psr-4": {
+            "": "src/"
+        }
+    },
+    "authors": [],
+    "require": {}
+}

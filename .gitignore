@@ -2,3 +2,5 @@ node_modules
 *.ipk
 dist
 dummyserver.js
+
+/vendor/
